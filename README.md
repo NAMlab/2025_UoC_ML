@@ -8,4 +8,4 @@ https://drive.google.com/file/d/1f7UXTnG2xTZf71mfrHYi1lTWtQxt_QFR/view?usp=shari
 https://drive.google.com/file/d/15Cs1I-XGcj944paY5AjwwxZ514YF1vIm/view?usp=sharing
 
 ### 3. MNIST exercise
-https://colab.research.google.com/drive/1VStV1lZXxZL_WIgSDXT7-Uo4pKIc0NJA?usp=sharing
+https://drive.google.com/file/d/1dKEYLTCFaBFjRhereOVmpsuJ3eG2QFZv/view?usp=sharing
