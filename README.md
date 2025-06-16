@@ -2,7 +2,7 @@
 
 ## Google Colab notebooks
 ### 1. Gradient descent:
-https://colab.research.google.com/drive/1yKo7xoTHuGt5zZnoQFtVFabH-u1xmRIH?usp=sharing
+https://drive.google.com/file/d/1f7UXTnG2xTZf71mfrHYi1lTWtQxt_QFR/view?usp=sharing
 
 ### 2. Weight activation
 https://colab.research.google.com/drive/1ALxRa1KzOlAxcJC1NSAG1nWlvZMa9F2P?usp=sharing
