@@ -7,5 +7,8 @@ https://drive.google.com/file/d/1f7UXTnG2xTZf71mfrHYi1lTWtQxt_QFR/view?usp=shari
 ### 2. Weight activation
 https://drive.google.com/file/d/15Cs1I-XGcj944paY5AjwwxZ514YF1vIm/view?usp=sharing
 
-### 3. MNIST exercise
+### 3. Regularization
+https://drive.google.com/file/d/1eXFY3010fUZKcciU6vZ-K3DuUfiXYQ17/view?usp=sharing
+
+### 4. MNIST exercise
 https://drive.google.com/file/d/1dKEYLTCFaBFjRhereOVmpsuJ3eG2QFZv/view?usp=sharing
