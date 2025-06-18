@@ -19,4 +19,5 @@ https://drive.google.com/file/d/1WMCJbdt2ojr55WhBmbaLhgWOIyCUBkNo/view?usp=shari
 ### 6. Arabidopsis DNA classification - model training
 https://drive.google.com/file/d/1dyjYKPlqSyJGjf2JdBbX4KOBusDxPoD1/view?usp=sharing
 
-
+### 7. Tomato leaf disease exercise
+https://drive.google.com/file/d/1hPxbVO4Nvw4_1UaVG1mNrE16YbQTCs5V/view?usp=sharing
