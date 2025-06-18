@@ -13,7 +13,10 @@ https://drive.google.com/file/d/1eXFY3010fUZKcciU6vZ-K3DuUfiXYQ17/view?usp=shari
 ### 4. MNIST exercise
 https://drive.google.com/file/d/1dKEYLTCFaBFjRhereOVmpsuJ3eG2QFZv/view?usp=sharing
 
-### 5. Arabidopsis DNA sequence classification
+### 5. Arabidopsis DNA classification - getting and labelling the data
+https://drive.google.com/file/d/1WMCJbdt2ojr55WhBmbaLhgWOIyCUBkNo/view?usp=sharing
+
+### 6. Arabidopsis DNA classification - model training
 https://drive.google.com/file/d/1dyjYKPlqSyJGjf2JdBbX4KOBusDxPoD1/view?usp=sharing
 
 
