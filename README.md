@@ -12,3 +12,8 @@ https://drive.google.com/file/d/1eXFY3010fUZKcciU6vZ-K3DuUfiXYQ17/view?usp=shari
 
 ### 4. MNIST exercise
 https://drive.google.com/file/d/1dKEYLTCFaBFjRhereOVmpsuJ3eG2QFZv/view?usp=sharing
+
+### 5. Atabidopsis DNA sequence classification
+https://drive.google.com/file/d/1dyjYKPlqSyJGjf2JdBbX4KOBusDxPoD1/view?usp=sharing
+
+
