@@ -1,3 +1,7 @@
+*JJ Szymanski*
+j.szymanski@fz-juelich.de
+
+
 # ML course in Uni Koeln
 
 ## Google Colab notebooks
