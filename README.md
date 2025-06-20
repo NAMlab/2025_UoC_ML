@@ -29,7 +29,7 @@ https://drive.google.com/file/d/1dyjYKPlqSyJGjf2JdBbX4KOBusDxPoD1/view?usp=shari
 https://drive.google.com/file/d/15Yz9yO_zkiR4KLKmA15Wbr-7VY5Ij6l2/view?usp=sharing
 
 *ResNet*
-https://drive.google.com/file/d/1hPxbVO4Nvw4_1UaVG1mNrE16YbQTCs5V/view?usp=sharing
+https://drive.google.com/file/d/1soOPBDY4bvKtY2lPhpTiWruodkzMBUqY/view?usp=sharing
 
 
 
