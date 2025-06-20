@@ -30,3 +30,9 @@ https://drive.google.com/file/d/15Yz9yO_zkiR4KLKmA15Wbr-7VY5Ij6l2/view?usp=shari
 
 *ResNet*
 https://drive.google.com/file/d/1hPxbVO4Nvw4_1UaVG1mNrE16YbQTCs5V/view?usp=sharing
+
+## Exemplary exam questions
+https://docs.google.com/document/d/1DetpRoK5RFRRGqz8L9p848WsQXm75dXtIR-A2vVe-zc/edit?usp=sharing
+
+
+
